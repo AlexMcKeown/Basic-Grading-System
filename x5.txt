@@ -1,0 +1,192 @@
+
+=============================================================
+Student Name: Consistent Canary
+Program Name: Diploma of Doggeral
+
+------------ Counting for Animals | Attempt: 1 -----------
+Student Name: Consistent Canary
+Subject: Counting for Animals
+Teacher: Contrary Cat
+Distribution: 
+	Mean: 57
+	Standard deviation: 6
+Student's Mark: 67
+Student's Grade: C
+----------------------------------------------
+
+
+------------ Finding Friends | Attempt: 1 -----------
+Student Name: Consistent Canary
+Subject: Finding Friends
+Teacher: Contrary Cat
+Distribution: 
+	Mean: 72
+	Standard deviation: 1
+Student's Mark: 71
+Student's Grade: C
+----------------------------------------------
+
+Congrats Consistent Canary you have graduated!
+
+=============================================================
+
+
+=============================================================
+Student Name: Dusty the Dinosaur
+Program Name: Master of Extinction
+
+------------ Archery | Attempt: 1 -----------
+Student Name: Dusty the Dinosaur
+Subject: Archery
+Teacher: Softy Squid
+Distribution: 
+	Mean: 95
+	Standard deviation: 1
+Student's Mark: 94
+Student's Grade: HD
+----------------------------------------------
+
+
+------------ Basic Bouncing | Attempt: 1 -----------
+Student Name: Dusty the Dinosaur
+Subject: Basic Bouncing
+Teacher: Softy Squid
+Distribution: 
+	Mean: 90
+	Standard deviation: -2
+Student's Mark: 91
+Student's Grade: HD
+----------------------------------------------
+
+
+------------ Counting for Animals | Attempt: 1 -----------
+Student Name: Dusty the Dinosaur
+Subject: Counting for Animals
+Teacher: Contrary Cat
+Distribution: 
+	Mean: 62
+	Standard deviation: 8
+Student's Mark: 52
+Student's Grade: P
+----------------------------------------------
+
+
+------------ Digging | Attempt: 1 -----------
+Student Name: Dusty the Dinosaur
+Subject: Digging
+Teacher: Moderate Monkey
+Distribution: 
+	Mean: 61
+	Standard deviation: 4
+Student's Mark: 51
+Student's Grade: P
+----------------------------------------------
+
+
+------------ Better Bouncing | Attempt: 1 -----------
+Student Name: Dusty the Dinosaur
+Subject: Better Bouncing
+Teacher: Contrary Cat
+Distribution: 
+	Mean: 62
+	Standard deviation: 8
+Student's Mark: 55
+Student's Grade: P
+----------------------------------------------
+
+
+------------ Finding Friends | Attempt: 1 -----------
+Student Name: Dusty the Dinosaur
+Subject: Finding Friends
+Teacher: Moderate Monkey
+Distribution: 
+	Mean: 80
+	Standard deviation: 0
+Student's Mark: 80
+Student's Grade: D
+----------------------------------------------
+
+Congrats Dusty the Dinosaur you have graduated!
+
+=============================================================
+
+
+=============================================================
+Student Name: Iggy the Irratic
+Program Name: Some Degree of Oddness
+
+------------ Gathering Greenery | Attempt: 1 -----------
+Student Name: Iggy the Irratic
+Subject: Gathering Greenery
+Teacher: Moderate Monkey
+Distribution: 
+	Mean: 35
+	Standard deviation: 15
+Student's Mark: 20
+Student's Grade: F
+----------------------------------------------
+
+
+------------ Gathering Greenery | Attempt: 2 -----------
+Student Name: Iggy the Irratic
+Subject: Gathering Greenery
+Teacher: Moderate Monkey
+Distribution: 
+	Mean: 35
+	Standard deviation: 15
+Student's Mark: 68
+Student's Grade: C
+----------------------------------------------
+
+
+------------ Better Bouncing | Attempt: 1 -----------
+Student Name: Iggy the Irratic
+Subject: Better Bouncing
+Teacher: Contrary Cat
+Distribution: 
+	Mean: 47
+	Standard deviation: 20
+Student's Mark: 0
+Student's Grade: F
+----------------------------------------------
+
+
+------------ Better Bouncing | Attempt: 2 -----------
+Student Name: Iggy the Irratic
+Subject: Better Bouncing
+Teacher: Moderate Monkey
+Distribution: 
+	Mean: 50
+	Standard deviation: 17
+Student's Mark: 59
+Student's Grade: P
+----------------------------------------------
+
+
+------------ Counting for Animals | Attempt: 1 -----------
+Student Name: Iggy the Irratic
+Subject: Counting for Animals
+Teacher: Softy Squid
+Distribution: 
+	Mean: 65
+	Standard deviation: 14
+Student's Mark: 64
+Student's Grade: P
+----------------------------------------------
+
+
+------------ Archery | Attempt: 1 -----------
+Student Name: Iggy the Irratic
+Subject: Archery
+Teacher: Softy Squid
+Distribution: 
+	Mean: 80
+	Standard deviation: 13
+Student's Mark: 76
+Student's Grade: D
+----------------------------------------------
+
+Congrats Iggy the Irratic you have graduated!
+
+=============================================================
+
